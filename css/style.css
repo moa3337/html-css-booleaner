@@ -1,14 +1,21 @@
 .top-page{
+    background-image: url(../pictures/pattern.png);
     background-color: lightskyblue;
     height: 100px;
+    margin: 0;
 }
 
-.top1{
-    height: 100%;
-    background-size: cover;
-}    
-
-top2{
-    height: 70%;
+.top2{
+    height: 50%;
+    display
 }
 
+h1{
+    margin: 0;
+    margin-top: 12px;
+}
+
+.photo-source{
+    margin: 0;
+    font-size: 12px;
+}
