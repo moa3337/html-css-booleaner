@@ -5,9 +5,9 @@
     margin: 0;
 }
 
-.top2{
+.img-top{
     height: 50%;
-    display
+    margin-top: 40px;
 }
 
 h1{
@@ -47,4 +47,8 @@ h1{
     color: white;
     margin-top: 10px;
     margin-left: 10px;
+}
+
+ul{
+    padding: 15px;
 }
