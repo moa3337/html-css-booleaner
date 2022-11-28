@@ -24,3 +24,27 @@ h1{
     background-color: yellow;
 }
 
+.altro{
+    color: grey;
+    margin-top: 40px;
+}
+
+.foto-finale1{
+    width: 270px;
+    height: 200px;
+    background-image: url(../pictures/monitor.jpg);
+    background-color: red;
+}
+
+.foto-finale2{
+    width: 270px;
+    height: 200px;
+    margin-top: 13px;
+    background-image: url(../pictures/graph.jpg);
+}
+
+.descrizione-foto{
+    color: white;
+    margin-top: 10px;
+    margin-left: 10px;
+}
