@@ -1,8 +1,17 @@
+body{
+    margin: 0 auto;
+    width: 1100px;
+}
+
+main{
+    margin-left: 5px;
+}
+
 .top-page{
     background-image: url(../pictures/pattern.png);
     background-color: lightskyblue;
     height: 100px;
-    margin: 0;
+    background-size: 300px;
 }
 
 .img-top{
@@ -24,7 +33,11 @@ h1{
     background-color: yellow;
 }
 
-.altro{
+footer{
+    margin-left: 5px;
+}
+
+.suggerimento{
     color: grey;
     margin-top: 40px;
 }
@@ -50,5 +63,19 @@ h1{
 }
 
 ul{
-    padding: 15px;
+    padding: 0px;
+    list-style-position: inside;
+}
+
+.table-title{
+    color: white;
+    background-color: blue;
+}
+
+.row-title{
+    background-color: aqua;
+}
+
+.all-table{
+    marg;
 }
